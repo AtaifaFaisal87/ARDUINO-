@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Bat1",1,"4 batteries, AA, no 1.5V Battery"
+"Mmotor2, Mmotor1",2," Hobby Gearmotor"
+"U2",1," H-bridge Motor Driver"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
+"PIEZO1",1," Piezo"
+"D1",1,"Red LED"
+"D2",1,"Green LED"
+"R1, R2, R3",3,"1 kΩ Resistor"
+"D3",1,"Orange LED"
